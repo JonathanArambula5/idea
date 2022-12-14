@@ -1,5 +1,5 @@
 # idea
-Our Idea Is An Off Brand Game boy thing.
+Our Idea Is An Off Brand x box thing.
 
 The html and css is based off of the old project so things need to be changed like the color, pictures, headings, and information.
 
